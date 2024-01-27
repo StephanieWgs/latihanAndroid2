@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">latihanAndroid2</string>
+    <string name="judul">Data Mahasiswa</string>
+    <string name="nama">Nama</string>
+    <string name="NIM">NIM</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="hobi">Hobi</string>
+    <string name="tandaPetik">:</string>
+    <string name="btnOke">Oke</string>
+
+    <string name="isiNama">Stephanie</string>
+</resources>
